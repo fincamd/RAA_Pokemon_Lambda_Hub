@@ -208,6 +208,7 @@
      <Compile Include="Assets\ResonanceAudio\Scripts\ResonanceAudioRoom.cs" />
      <Compile Include="Assets\ResonanceAudio\Scripts\ResonanceAudioRoomManager.cs" />
      <Compile Include="Assets\ResonanceAudio\Scripts\ResonanceAudioSource.cs" />
+     <Compile Include="Assets\Scripts\Orbit.cs" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
      <None Include="Assets\Pocket Portal VR\Materials\PortalShader.shader" />
@@ -226,6 +227,7 @@
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlay.shader" />
      <None Include="Assets\GoogleVR\Plugins\Android\proguard-gvr.txt" />
      <None Include="Assets\GoogleVR\Plugins\Android\AndroidManifest-Cardboard.xml" />
+     <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
      <None Include="Assets\ResonanceAudio\Shaders\ResonanceAudioSurfaceMaterial.shader" />
      <None Include="Assets\Pocket Portal VR\Demo\Materials\MobileSkySphere.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
